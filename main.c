@@ -13,7 +13,6 @@ int main(void)
   printf("더하기 입력 : ");
   scanf("%d", &x);
   scanf("%d", &y);
-
   int result = 0;
 
   result = x+y;
